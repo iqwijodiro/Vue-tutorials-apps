@@ -1,4 +1,4 @@
-# Vue-tutorials-apps
+# Resources List app
 
 This is little app that I build with the great help and teaching of Max (Academind).
 
